@@ -10,4 +10,7 @@ All the codes uploaded in this repo pass the test in Baekjoon website.<br>
 However, don't just copy and paste them when logged in your account.<br>
 I recommend you to write your own answers by yourself.<br>
 It will help you a lot more!<br>
-All codes lastly checked at May 12th, 2022<br>
+All codes lastly checked at May 14th, 2022<br>
+
+May 14th, 2022
+Upadated: put fastest codes atop of source codes in stage 8
