@@ -1,4 +1,4 @@
-# Coding-Practice Baekjoon Stage 7 ~ 9
+# Coding-Practice Baekjoon Stage 7 ~ 9 + 13
 Hints? Go to read Wiki pages of this repo.<br>
 Codes? Go into a folder named by stage number. Then find the code.<br>
 Name of a source code looks like \<Stage Number>-\<Sub Number> \<Problem Number><br>
@@ -13,4 +13,7 @@ It will help you a lot more!<br>
 All codes lastly checked at May 14th, 2022<br>
 
 May 14th, 2022<br>
-Upadated: put fastest codes atop of source codes in stage 8
+Updated: put fastest codes atop of source codes in stage 8<br>
+
+May 16th, 2022<br>
+Updated: uploaded some of 13 stage problems which once belonged to stage 8<br>
