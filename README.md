@@ -13,4 +13,7 @@ It will help you a lot more!<br>
 All codes lastly checked at May 14th, 2022<br>
 
 May 14th, 2022<br>
-Upadated: put fastest codes atop of source codes in stage 8
+Updated: put fastest codes atop of source codes in stage 8<br>
+
+May 16th, 2022<br>
+Updated: uploaded some of 13 stage problems which once belonged to stage 8<br>
